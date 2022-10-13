@@ -1,0 +1,42 @@
+body{
+    background-color: #f4c598;
+}
+h1{
+    color: #083dc4;
+}
+div{
+    text-align: center;
+}
+u{
+    padding-right: 12px;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+    padding-right: 265px;
+}
+h2{
+    font-size: 16px;
+    padding-right: 230px;
+    
+}
+em{
+    border: 2px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+h3{
+    font-size: 16px;
+    padding-right: 285px;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+    padding-left: 370px;
+}
+h5{
+    text-align: center;
+    padding-left: 700px;
+    font-size: 20px;
+}
